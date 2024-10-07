@@ -372,7 +372,7 @@ footer{
 .footer-container .footer-btn .register-btn
 {
     padding: 10px 20px;
-    background-color: rgb(93, 93, 224);
+    
 }
 
 .footer-container-2
@@ -416,7 +416,7 @@ footer{
 
    .footer-container hr 
    {
-      display: "";
+      visibility: visible !important;
    }
 
    .footer-container div 
